@@ -2,7 +2,7 @@
 Calculator ---(webapi version)
 
 * System Map
-* ![image](CalculatorWebApiSystemMap.png)
+* ![image](CalculatorWebApi.png)
 
 * Class Diagram
 * ![image](CalculatorWebapiClassDiagram.png)
